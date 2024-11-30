@@ -8,7 +8,7 @@ import numpy as np
 import os
 
 # Title with confidentiality and description
-st.title("🚙⚠Safety-Centric Image Recognition and Speech Generation")
+st.title("Generative AI for Object Recognition")
 st.markdown("""*Key Features:*  
 1. *Upload an image* securely.  
 2. Get a *detailed description* of the image.
